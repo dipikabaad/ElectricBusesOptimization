@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1521340730954.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "625C05B2",
+    "lastKnownWriteTime" : 1521356748,
+    "last_content_update" : 1521356748026,
+    "path" : "~/shinyapp1/readFiles.R",
+    "project_path" : "readFiles.R",
+    "properties" : {
+        "cursorPosition" : "2,37",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

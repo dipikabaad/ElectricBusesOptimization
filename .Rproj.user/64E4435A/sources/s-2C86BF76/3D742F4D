@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1521340421832.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "3D742F4D",
+    "lastKnownWriteTime" : 1521352959,
+    "last_content_update" : 1521352959272,
+    "path" : "~/shinyapp1/server.R",
+    "project_path" : "server.R",
+    "properties" : {
+        "cursorPosition" : "27,51",
+        "scrollLine" : "19"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
